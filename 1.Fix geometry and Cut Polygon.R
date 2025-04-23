@@ -42,7 +42,7 @@ st_is_valid(chile)
 head(chile)
 ggplot() + geom_sf(data = chile, fill="darkseagreen")
 
-##polygon intersection and map of Chile
+##polygon intersection with map of Chile
 polygon_chile <- st_intersection(st_geometry(polygon), st_geometry(chl))
 polygon_chile <- st_intersection(polygon, chile)
 polygon_chile
