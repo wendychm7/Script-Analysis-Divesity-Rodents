@@ -3,19 +3,18 @@ This repository contains the scripts used for the analysis of diversity indices 
 Autor: Wendy C. Hernández-Mazariegos
 Contact: wendychm7@gmail.com
 # Contenido
-1.Fix geometry and Cut Polygon
-2.SHP union and Species richness
-3.Data matrix creation
-4.PD analysis
-5.PE analysis
-6.FD analysis
-7.Indices simple regression
-8.Fix geometry SHP
-9.GLMM-ANOVA-Analysis
-10.Boxplot anaylis
-11.GLMM-ANOVA-models
-12.Centroid analysis and Moran I Test
-13.GLMMPQL-ANOVA-Analysis
-14.Statistical parameters
+1.Fix geometry and Cut Polygon.R
+2.SHP union and Species richness.R
+3.Data matrix creation.R
+4.PD analysis.R
+5.PE analysis.R
+6.FD analysis.R
+7.Indices simple regression.R
+8.Fix geometry SHP.R
+9.GLMM-ANOVA-Analysis.R
+10.Boxplot anaylis.R
+11.Centroid analysis and Moran I Test.R
+12.GLMMPQL-ANOVA-Analysis.R
+13.Statistical parameters.R
 
 
