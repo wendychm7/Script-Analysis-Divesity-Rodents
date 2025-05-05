@@ -16,5 +16,6 @@ Contact: wendychm7@gmail.com
 11.Centroid analysis and Moran I Test.R
 12.GLMMPQL-ANOVA-Analysis.R
 13.Statistical parameters.R
-
+Diversity indices - Data Base
+Phylogenetic tree - nwk format
 
